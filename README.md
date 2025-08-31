@@ -19,7 +19,7 @@ Passionate about continuous learning and applying new technologies to drive inno
   <a href="https://www.linkedin.com/in/victorobristb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## 🛠 Tech Stack
+## 🛠 Current Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,unreal,rider,git,github,gitlab,vscode,postman,blender,python,pycharm,docker,ai" />
 </p>
