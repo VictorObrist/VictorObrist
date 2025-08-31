@@ -4,21 +4,24 @@ I'm a Systems Engineer with 15+ years of experience in software development.
 
 Passionate about continuous learning and applying new technologies to drive innovation.
 
-- 👨🏻‍💻 Love programming and gaming
-- 🧠 Love sharing knowledge
-
-
+- 👨🏻‍💻 Love programming and gaming.
+- 🎯 Experienced in the full cycle of game development, from prototyping to release.
+- 🧠 Love sharing knowledge.
 
 ## 📫 Let's connect!
 
 - [LinkedIn](https://www.linkedin.com/in/victorobristb)
-- <a href="https://www.linkedin.com/in/victorobristb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - Email: victor.obrist@gmail.com
 
 ## 📬 Connect With Me
 <p align="center">
   <a href="mailto:victor.obrist@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victorobristb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,unreal,rider,git,github,gitlab,vscode,postman,blender,python,pucharm,docker,ai" />
 </p>
 
 ###
