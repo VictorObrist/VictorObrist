@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Victor Obrist 👋
+
+I'm a Systems Engineer with 15+ years of experience in software development.
+
+- 👨🏻‍💻 Love programming and gaming
+- 🧠 Love sharing knowledge
+
+## 📫 Let's connect!
+
+- [LinkedIn](https://www.linkedin.com/in/victorobristb)   
+- Email: victor.obrist@gmail.com
 
 ###
 
@@ -10,7 +20,7 @@
 <!--
 **VictorObrist/VictorObrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
