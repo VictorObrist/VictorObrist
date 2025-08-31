@@ -4,7 +4,7 @@ I'm a Systems Engineer with 15+ years of experience in software development.
 
 Passionate about continuous learning and applying new technologies to drive innovation.
 
-- 👨🏻‍💻 Love programming and gaming.
+- 👨🏻‍💻 Love game programming.
 - 🎯 Experienced in the full cycle of game development, from prototyping to release.
 - 🧠 Love sharing knowledge.
 
