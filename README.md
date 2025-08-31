@@ -9,11 +9,12 @@ Passionate about continuous learning and applying new technologies to drive inno
 - 🧠 Love sharing knowledge.
 
 ## 📫 Let's connect!
-
+<!--
 - [LinkedIn](https://www.linkedin.com/in/victorobristb)
 - Email: victor.obrist@gmail.com
 
 ## 📬 Connect With Me
+-->
 <p align="center">
   <a href="mailto:victor.obrist@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victorobristb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
