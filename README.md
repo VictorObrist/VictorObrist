@@ -11,7 +11,8 @@ Passionate about continuous learning and applying new technologies to drive inno
 
 ## 📫 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/victorobristb)   
+- [LinkedIn](https://www.linkedin.com/in/victorobristb)
+- <a href="https://www.linkedin.com/in/victorobristb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - Email: victor.obrist@gmail.com
 
 ## 📬 Connect With Me
