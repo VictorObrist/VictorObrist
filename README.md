@@ -22,7 +22,7 @@ Passionate about continuous learning and applying new technologies to drive inno
 
 ## 🛠 Current Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,unreal,git,github,gitlab,vscode,rider,postman,blender,python,pycharm,docker,ai" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,unreal,git,github,gitlab,vscode,rider,postman,blender,python,pycharm,docker" />
 </p>
 
 ###
