@@ -1,6 +1,6 @@
 ## Hi there, I'm Victor Obrist 👋
 
-I'm a Systems Engineer with 15+ years of experience in software development.  
+I'm a Software Engineer with 15+ years of experience in software development.  
 
 Passionate about continuous learning and applying new technologies to drive innovation.
 
